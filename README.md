@@ -24,7 +24,3 @@ This repository contains a Python script that implements security measures on a 
 
 - **Important**: Modifying the Windows Registry and system settings can have significant consequences on system functionality. Use this script with caution and only on systems where you understand the implications.
 - **Backup**: It's recommended to create a backup of your system or registry before using this script.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
